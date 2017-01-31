@@ -1,6 +1,6 @@
 {
   "name": "react-native-fade-in-view",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple and lightweight RN component that fades in its children",
   "main": "FadeInView.js",
   "repository": "https://github.com/robcalcroft/react-native-fade-in-view.git",

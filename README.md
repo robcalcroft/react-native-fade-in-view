@@ -1,4 +1,4 @@
-# react-native-fade-in-view
+# react-native-fade-in-view [![npm version](https://badge.fury.io/js/react-native-fade-in-view.svg)](https://badge.fury.io/js/react-native-fade-in-view)
 > A simple and lightweight RN component that fades in its children
 
 ## Install

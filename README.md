@@ -8,8 +8,8 @@
 ### `onFadeComplete`
 A function that is called when the fade animation completes
 
-### `duration || 500`
-The duration of the fade animation, 500ms by default
+### `duration`
+The duration of the fade animation, **`500ms`** by default
 
 ### `style`
 Style to be given to the view

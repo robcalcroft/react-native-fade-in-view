@@ -10,7 +10,8 @@
     "lint": "eslint FadeInView.js"
   },
   "peerDependencies": {
-    "react": "^15.4.2",
+    "prop-types": "^15.6.0",
+    "react": "^15.4.2 || ^16.0.0",
     "react-native": "^0.40.0"
   },
   "devDependencies": {

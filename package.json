@@ -4,7 +4,7 @@
   "description": "A simple and lightweight RN component that fades in its children",
   "main": "FadeInView.js",
   "repository": "https://github.com/robcalcroft/react-native-fade-in-view.git",
-  "author": "Rob Calcroft <rob@calcroft.com>",
+  "author": "Rob Calcroft <robcalcroft@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
     "lint": "eslint FadeInView.js"

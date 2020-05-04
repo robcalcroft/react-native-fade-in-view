@@ -20,6 +20,7 @@ class FadeInView extends Component {
       {
         toValue: 1,
         duration,
+        useNativeDriver: false,
       },
     ).start(onFadeComplete || (() => {}));
   }
